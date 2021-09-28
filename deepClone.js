@@ -94,4 +94,4 @@ newData.ma.set('copyKey',Symbol('copy_map')),
 newData.time = new Date('2021-09-10'),
 newData.regExp = /\.js/g
 
-console.log(testObj,newData, testObj == newData)
+// console.log(testObj,newData, testObj == newData)
