@@ -6,3 +6,5 @@ function kingMap(fn) {
     return result
 }
 Array.prototype.kingMap = kingMap
+const res = [null, undefined].map(item=>item)
+console.log(res, 'res');
